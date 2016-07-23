@@ -1,0 +1,5 @@
+﻿References  -
+
+1)SKlearn documentation
+2)Checked my old ML practice notebooks for visualization
+3) Ngram tutorial - https://lagunita.stanford.edu/c4x/Engineering/CS-224N/asset/slp4.pdf
